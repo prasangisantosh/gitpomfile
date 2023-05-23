@@ -1,0 +1,3 @@
+package .war;
+
+class Empty {}
